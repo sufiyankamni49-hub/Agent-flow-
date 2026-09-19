@@ -1,0 +1,5 @@
+# Google AI Studio se mili Gemini API key yahan daalo
+GEMINI_API_KEY=your_key_here
+
+# Server port (Render is khud set kar dega, local testing ke liye)
+PORT=3000
